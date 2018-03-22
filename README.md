@@ -1740,7 +1740,7 @@ plt.show()
 ```
 
 
-![png](CityLat-Cloudiness-03.17.18.png)
+![png](CityLat-MaxTemp-03.17.18.png)
 
 
 ## Humidity (%) vs. Latitude
@@ -1790,7 +1790,7 @@ plt.show()
 ```
 
 
-![png](CityLat-MaxTemp-03.17.18.png)
+![png](CityLat-Cloudiness-03.17.18.png)
 
 
 ## Wind Speed (mph) vs. Latitude
